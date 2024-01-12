@@ -1,7 +1,7 @@
 {
   "name": "timer",
   "short_name": "timer",
-  "start_url": "https://akasofuanimal.github.io/webtest.io/",
+  "start_url": "https://akasofuanimal.github.io/",
   "display": "standalone",
   "background_color": "#fff",
   "description": "timer app.",
